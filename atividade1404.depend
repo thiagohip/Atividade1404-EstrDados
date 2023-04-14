@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681468980 source:/home/alunos/atividade1404/main.cpp
+	<iostream>
+	<numbers.h>
+
+1681468808 /home/alunos/atividade1404//numbers.h
+
+1681469310 source:/home/alunos/atividade1404/numbers.cpp
+	<iostream>
+	"numbers.h"
+
+1681468808 /home/alunos/atividade1404/numbers.h
+
